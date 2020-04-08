@@ -10,7 +10,7 @@ Excerpt: Flutter for iOS and Android mobile applications. Gave up on native Andr
 Date: 6 Apr 2020
 
 # Dream11 Fantasy Sports App
-![Dream11](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fdream11&psig=AOvVaw3wDz1yvHif1OkQDin-w0qu&ust=1586453324613000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOD-pc6t2egCFQAAAAAdAAAAABAD)
+![Dream11](https://twitter.com/Dream11Hockey/photo)
 ## India's largest sports fantasy platform
 Source: https://www.dream11.com/download-app
 Excerpt: Dream 11 is a sports fantasy platform from India that lets users play fantasy Cricket, Football, NBA, Hockey, kabaddi, and basketball.  The UI of the app is a result of the easily customizable widgets provided by Flutter. That makes the app work like Magic. The widgets are based on material design and most of them are adjustable so you can utilize the same widget for Android and iOS.
