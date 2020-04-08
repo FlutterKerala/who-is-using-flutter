@@ -10,13 +10,14 @@ Excerpt: Flutter for iOS and Android mobile applications. Gave up on native Andr
 Date: 6 Apr 2020
 
 # Dream11 Fantasy Sports App
-![Zerodha](https://en.wikipedia.org/wiki/File:Logo_of_Dream11.png =250x250)
-Source: https://www.dream11.com/download-app
+![Dream11](https://en.wikipedia.org/wiki/File:Logo_of_Dream11.png =250x250)
 ## India's largest sports fantasy platform
+Source: https://www.dream11.com/download-app
 Excerpt: Dream 11 is a sports fantasy platform from India that lets users play fantasy Cricket, Football, NBA, Hockey, kabaddi, and basketball.  The UI of the app is a result of the easily customizable widgets provided by Flutter. That makes the app work like Magic. The widgets are based on material design and most of them are adjustable so you can utilize the same widget for Android and iOS.
 
 # AliBaba
-![Alibaba](https://lh3.googleusercontent.com/Btfes5_yrMt5peCLS3QDjKYZN9rUYqGdPxrmBXdJ0b-6SJFI5-JLd5QSHl4aAplt_FE=s180-rw =250x250)
+![Alibaba](https://lh3.googleusercontent.com/Btfes5_yrMt5peCLS3QDjKYZN9rUYqGdPxrmBXdJ0b-6SJFI5-JLd5QSHl4aAplt_FE=s180-rw)
+## Worls's leading wholesale mobile marketplace for global trade
 Source: https://play.google.com/store/apps/details?id=com.alibaba.intl.android.apps.poseidon&hl=en_IN
 ## Worls's leading wholesale mobile marketplace for global trade. 
 Excerpt: The biggest wholesale & eCommerce giant has also preferred to make their application using the Flutter platform. Alibaba has its own iOS and Android on its Xianyu app which has millions of downloads. In fact, more than 10 million users utilize this app every day.
