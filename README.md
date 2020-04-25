@@ -30,4 +30,10 @@ Source: https://www.youtube.com/watch?v=DVGIBU109nI \
 Excerpt: 
 Tencent is using Flutter throughout their business! The company shares a common vision: create a beautiful, smooth, and connected experience. To keep this vision alive, they've used Flutter in 6 of their apps!
 
+# Nubank
+![Nubank](https://digital.hbs.edu/platform-digit/wp-content/uploads/sites/2/2020/02/nubank-logo-0-768x576.png)
+### Nubank is a Latin American neobank
+Source: https://www.youtube.com/watch?v=vnj2i6RNo3g \
+Excerpt: Nubank is the largest fintech in Latin America and one of the most innovative companies in the world, according to the 2019 Fast Company ranking. After conducting a detailed investigation and analysis of their choices for app development, Nubank selected Flutter. Since making the change, Nubank has been able to unify their front-end development team on a single framework, enabling them to ship new features simultaneously on both iOS and Android.
+
 ### And many more
