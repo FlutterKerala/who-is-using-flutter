@@ -2,6 +2,11 @@
 # Who are using Flutter?
 List of companies/studios using Flutter for building iOS/Android/Desktop apps
 
+# Google Pay
+![GPay](https://cdn.mos.cms.futurecdn.net/Mz6EZfmz6BJaVAvZYmefGF-650-80.jpg.webp) \
+Source: https://developers.googleblog.com/2020/09/google-pay-picks-flutter-to-drive-its.html \
+Excerpt: Google Pay Team Quoted \
+"When fully migrated, Google Pay will be one of the largest production deployments on the Flutter platform. We look forward to sharing more learnings from our transition to Flutter in the future."
 
 # Zerodha
 ![Zerodha](https://web.archive.org/web/20200407223106/https://zerodha.tech/static/images/logo.svg)
