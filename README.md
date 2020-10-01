@@ -2,6 +2,11 @@
 # Who are using Flutter?
 List of companies/studios using Flutter for building iOS/Android/Desktop apps
 
+# Google Stadia
+![Google Stadia](https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/product_image_aspect_switcher_170w/public/product-images/csm-app/stadia-app-poster-image.png?itok=MBlw2FNK) \
+Source: https://play.google.com/store/apps/details?id=com.google.stadia.android&hl=en_US \
+Excerpt: Stadia is an all-new gaming platform that lets you play games across screens. Stadia is one place for all the ways we play.
+
 # Google Pay
 ![GPay](https://cdn.mos.cms.futurecdn.net/Mz6EZfmz6BJaVAvZYmefGF-650-80.jpg.webp) \
 Source: https://developers.googleblog.com/2020/09/google-pay-picks-flutter-to-drive-its.html \
